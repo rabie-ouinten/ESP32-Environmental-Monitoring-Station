@@ -56,7 +56,7 @@ The project combines embedded programming, sensor interfacing, a web interface, 
 .
 ├── firmware/    # ESP32 source code (Arduino sketch)
 ├── hardware/    # KiCad schematic and PCB design files
-└── images/      # Screenshots, photos, project report
+└── image/      # Screenshots, photos, project report
 ```
 
 ## Getting Started
